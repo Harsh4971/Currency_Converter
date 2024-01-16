@@ -60,9 +60,9 @@ form input {
     align-items: center;
     border-radius: 0.5rem;
     border: 1px solid lightgray;
-    width: 6rem;
+    width: 8rem;
     height: 3rem;
-    padding-left: 0.5rem;
+    padding-left: 0.1rem;
     padding-right: 0.25rem;
 }
 
